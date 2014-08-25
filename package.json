@@ -14,7 +14,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-      "connect": "1.4.x",
-      "express": "2.3.x"
+      "connect": "2.8.7",
+      "express": "3.3.7"
   }
 }
