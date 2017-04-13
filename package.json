@@ -9,9 +9,6 @@
     "url": "git://github.com/segmentio/express-latency.git"
   },
   "main": "./index.js",
-  "engines": {
-    "node": "~0.4.12"
-  },
   "dependencies": {},
   "devDependencies": {
       "connect": "2.8.7",
